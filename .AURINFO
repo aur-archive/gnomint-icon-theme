@@ -1,0 +1,14 @@
+pkgbase = gnomint-icon-theme
+	pkgdesc = GNOME icon theme with Mint-X folder icons
+	pkgver = 3
+	pkgrel = 3
+	url = https://launchpad.net/gnomint-icon-theme
+	install = gnomint.install
+	arch = any
+	license = GPL3
+	depends = gnome-icon-theme
+	source = https://launchpad.net/gnomint-icon-theme/trunk/3.0/+download/gnomint-icon-theme-3.tar.gz
+	md5sums = b35ef6067cdefa5e233296fba79007df
+
+pkgname = gnomint-icon-theme
+
